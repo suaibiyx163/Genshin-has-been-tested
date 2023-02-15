@@ -1,0 +1,2 @@
+C:\Users\ASUS\source\repos\ConsoleApp1\bin\Release\net6.0\publish\win-x86\ConsoleApp1.pdb
+C:\Users\ASUS\source\repos\ConsoleApp1\bin\Release\net6.0\publish\win-x86\ConsoleApp1.exe
